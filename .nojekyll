@@ -1,0 +1,1 @@
+# folder begins with an underscore. When jekyll processing is enabled, files/folders that begin with underscores which aren’t essential will be ignored.
